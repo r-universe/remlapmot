@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bpbounds",
+    "oncran": true
+  },
+  {
+    "package": "OneSampleMR",
+    "oncran": true
+  }
+]

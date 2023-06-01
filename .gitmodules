@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/remlapmot/remlapmot.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "bpbounds"]
@@ -8,8 +8,13 @@
 	url = https://github.com/remlapmot/bpbounds
 	shallow = true
 	registered = true
+[submodule "knitexercise"]
+	path = knitexercise
+	url = https://github.com/remlapmot/knitexercise
+	shallow = true
+	registered = true
 [submodule "OneSampleMR"]
 	path = OneSampleMR
-	url = https://github.com/remlapmot/onesamplemr
+	url = https://github.com/remlapmot/OneSampleMR
 	shallow = true
 	registered = true

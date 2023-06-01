@@ -1,0 +1,10 @@
+{
+  "id": 38165520,
+  "created_at": "2023-06-01T19:25:29.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["bpbounds", "knitexercise", "OneSampleMR"]
+}

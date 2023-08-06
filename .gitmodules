@@ -2,12 +2,21 @@
 	path = .registry
 	url = https://github.com/remlapmot/remlapmot.r-universe.dev
 	branch = HEAD
+[submodule "OneSampleMR"]
+	path = OneSampleMR
+	url = https://github.com/remlapmot/OneSampleMR
+[submodule "Statamarkdown"]
+	path = Statamarkdown
+	url = https://github.com/Hemken/Statamarkdown
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise
-[submodule "OneSampleMR"]
-	path = OneSampleMR
-	url = https://github.com/remlapmot/OneSampleMR
+[submodule "mrbayes"]
+	path = mrbayes
+	url = https://github.com/okezie94/mrbayes
+[submodule "tmsens"]
+	path = tmsens
+	url = https://github.com/dea-hazewinkel/tmsens

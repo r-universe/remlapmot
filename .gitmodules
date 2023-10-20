@@ -17,6 +17,9 @@
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
+[submodule "osutils"]
+	path = osutils
+	url = https://github.com/wjchulme/osutils
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens

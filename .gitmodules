@@ -11,6 +11,9 @@
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
+[submodule "dd4d"]
+	path = dd4d
+	url = https://github.com/wjchulme/dd4d
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise

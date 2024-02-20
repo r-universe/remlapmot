@@ -2,22 +2,46 @@
 	path = .registry
 	url = https://github.com/remlapmot/remlapmot.r-universe.dev
 	branch = HEAD
+[submodule "MRInstruments"]
+	path = MRInstruments
+	url = https://github.com/mrcieu/MRInstruments
+	registered = false
+[submodule "MRMix"]
+	path = MRMix
+	url = https://github.com/gqi/MRMix
+	registered = false
+[submodule "MRPRESSO"]
+	path = MRPRESSO
+	url = https://github.com/rondolab/MR-PRESSO
+	registered = false
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
+[submodule "RadialMR"]
+	path = RadialMR
+	url = https://github.com/WSpiller/RadialMR
+	registered = false
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
-	branch = *release
+	branch = v0.5.10
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
 [submodule "dd4d"]
 	path = dd4d
 	url = https://github.com/wjchulme/dd4d
+[submodule "gwasglue2"]
+	path = gwasglue2
+	url = https://github.com/mrcieu/gwasglue2
+	registered = false
+[submodule "ieugwasr"]
+	path = ieugwasr
+	url = https://github.com/mrcieu/ieugwasr
+	registered = false
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise

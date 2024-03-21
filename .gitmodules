@@ -8,6 +8,10 @@
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown
+[submodule "TwoSampleMR"]
+	path = TwoSampleMR
+	url = https://github.com/MRCIEU/TwoSampleMR
+	branch = *release
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds

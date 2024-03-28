@@ -40,8 +40,8 @@
 	registered = false
 [submodule "ieugwasr"]
 	path = ieugwasr
-	url = https://github.com/mrcieu/ieugwasr
-	registered = false
+	url = https://github.com/MRCIEU/ieugwasr
+	branch = *release
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise

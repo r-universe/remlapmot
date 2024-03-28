@@ -1,5 +1,9 @@
 [
   {
+    "package": "ieugwasr",
+    "releasetag": true
+  },
+  {
     "package": "TwoSampleMR",
     "releasetag": true
   }

@@ -24,6 +24,10 @@
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown
+[submodule "StepReg"]
+	path = StepReg
+	url = https://github.com/remlapmot/StepReg
+	branch = no-xlsx
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR

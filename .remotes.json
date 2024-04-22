@@ -28,17 +28,5 @@
     "url": "https://github.com/mrcieu/twosamplemr",
     "via": ["TwoSampleMR", "RadialMR"],
     "from": "TwoSampleMR"
-  },
-  {
-    "package": "gwasglue2",
-    "url": "https://github.com/mrcieu/gwasglue2",
-    "via": ["TwoSampleMR", "ieugwasr"],
-    "from": "TwoSampleMR"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["TwoSampleMR"],
-    "from": "TwoSampleMR"
   }
 ]

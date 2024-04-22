@@ -31,17 +31,13 @@
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
-	branch = v0.5.11
+	branch = v0.6.0
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
 [submodule "dd4d"]
 	path = dd4d
 	url = https://github.com/wjchulme/dd4d
-[submodule "gwasglue2"]
-	path = gwasglue2
-	url = https://github.com/mrcieu/gwasglue2
-	registered = false
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr

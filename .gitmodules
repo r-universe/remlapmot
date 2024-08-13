@@ -28,6 +28,9 @@
 	path = StepReg
 	url = https://github.com/remlapmot/StepReg
 	branch = no-xlsx
+[submodule "TrialEmulation"]
+	path = TrialEmulation
+	url = https://github.com/Causal-LDA/TrialEmulation
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR

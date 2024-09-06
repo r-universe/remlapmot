@@ -22,11 +22,5 @@
     "url": "https://github.com/WSpiller/RadialMR",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
-  },
-  {
-    "package": "TwoSampleMR",
-    "url": "https://github.com/mrcieu/twosamplemr",
-    "via": ["TwoSampleMR", "RadialMR"],
-    "from": "TwoSampleMR"
   }
 ]

@@ -57,3 +57,6 @@
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens
+[submodule "vscDebugger"]
+	path = vscDebugger
+	url = https://github.com/ManuelHentschel/vscDebugger

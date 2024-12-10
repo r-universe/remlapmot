@@ -38,6 +38,9 @@
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
+[submodule "colorout"]
+	path = colorout
+	url = https://github.com/jalvesaq/colorout
 [submodule "dd4d"]
 	path = dd4d
 	url = https://github.com/wjchulme/dd4d

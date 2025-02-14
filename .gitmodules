@@ -47,7 +47,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = *release
+	branch = v1.2.0
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr

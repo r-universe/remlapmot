@@ -1,5 +1,9 @@
 [
   {
+    "package": "duckdb",
+    "releasetag": true
+  },
+  {
     "package": "ieugwasr",
     "releasetag": true
   },

@@ -22,5 +22,17 @@
     "url": "https://github.com/WSpiller/RadialMR",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["TwoSampleMR"],
+    "from": "TwoSampleMR"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["TwoSampleMR"],
+    "from": "TwoSampleMR"
   }
 ]

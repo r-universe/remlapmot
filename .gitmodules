@@ -34,7 +34,7 @@
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
-	branch = v0.6.9
+	branch = v0.6.10
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
@@ -55,12 +55,20 @@
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise
+[submodule "mr.raps"]
+	path = mr.raps
+	url = https://github.com/qingyuanzhao/mr.raps
+	registered = false
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
 [submodule "osutils"]
 	path = osutils
 	url = https://github.com/wjchulme/osutils
+[submodule "rsnps"]
+	path = rsnps
+	url = https://github.com/ropensci/rsnps
+	registered = false
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens

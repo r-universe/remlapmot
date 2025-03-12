@@ -65,6 +65,9 @@
 [submodule "osutils"]
 	path = osutils
 	url = https://github.com/wjchulme/osutils
+[submodule "quickdag"]
+	path = quickdag
+	url = https://github.com/jrgant/quickdag
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps

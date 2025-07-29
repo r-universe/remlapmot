@@ -21,6 +21,9 @@
 	path = RadialMR
 	url = https://github.com/WSpiller/RadialMR
 	registered = false
+[submodule "SASmarkdown"]
+	path = SASmarkdown
+	url = https://github.com/Hemken/SASmarkdown
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown

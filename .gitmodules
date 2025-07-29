@@ -47,10 +47,6 @@
 [submodule "dd4d"]
 	path = dd4d
 	url = https://github.com/wjchulme/dd4d
-[submodule "duckdb"]
-	path = duckdb
-	url = https://github.com/duckdb/duckdb-r
-	branch = v1.3.2
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr

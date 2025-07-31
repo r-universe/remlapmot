@@ -50,7 +50,7 @@
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
-	branch = v1.0.4
+	branch = v1.1.0
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise

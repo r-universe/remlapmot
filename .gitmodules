@@ -27,6 +27,11 @@
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/Hemken/SASmarkdown
+[submodule "StanHeaders"]
+	path = StanHeaders
+	url = https://github.com/stan-dev/rstan
+	branch = develop
+	subdir = StanHeaders
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown

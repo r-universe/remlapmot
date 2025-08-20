@@ -58,9 +58,6 @@
 	path = mr.raps
 	url = https://github.com/qingyuanzhao/mr.raps
 	registered = false
-[submodule "mrbayes"]
-	path = mrbayes
-	url = https://github.com/okezie94/mrbayes
 [submodule "osutils"]
 	path = osutils
 	url = https://github.com/wjchulme/osutils

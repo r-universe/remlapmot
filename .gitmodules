@@ -21,6 +21,9 @@
 	path = RadialMR
 	url = https://github.com/WSpiller/RadialMR
 	registered = false
+[submodule "RcppParallel"]
+	path = RcppParallel
+	url = https://github.com/RcppCore/RcppParallel
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/Hemken/SASmarkdown
@@ -75,6 +78,11 @@
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
 	registered = false
+[submodule "rstan"]
+	path = rstan
+	url = https://github.com/stan-dev/rstan
+	branch = develop
+	subdir = rstan/rstan
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens

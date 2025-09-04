@@ -64,7 +64,7 @@
 [submodule "quarto"]
 	path = quarto
 	url = https://github.com/quarto-dev/quarto-r
-	branch = v1.5.0
+	branch = v1.5.1
 [submodule "quickdag"]
 	path = quickdag
 	url = https://github.com/remlapmot/quickdag

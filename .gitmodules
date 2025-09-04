@@ -47,6 +47,7 @@
 [submodule "dd4d"]
 	path = dd4d
 	url = https://github.com/wjchulme/dd4d
+	branch = 291283fd0620d458584108b05d9237104e060c31
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr

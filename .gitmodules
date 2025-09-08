@@ -68,8 +68,7 @@
 	branch = v1.5.1
 [submodule "quickdag"]
 	path = quickdag
-	url = https://github.com/remlapmot/quickdag
-	branch = fix-02
+	url = https://github.com/jrgant/quickdag
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps

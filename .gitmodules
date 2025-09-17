@@ -21,6 +21,9 @@
 	path = RadialMR
 	url = https://github.com/WSpiller/RadialMR
 	registered = false
+[submodule "Rttf2pt1"]
+	path = Rttf2pt1
+	url = https://github.com/wch/Rttf2pt1
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/Hemken/SASmarkdown
@@ -48,6 +51,9 @@
 	path = dd4d
 	url = https://github.com/wjchulme/dd4d
 	branch = 291283fd0620d458584108b05d9237104e060c31
+[submodule "extrafont"]
+	path = extrafont
+	url = https://github.com/wch/extrafont
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd

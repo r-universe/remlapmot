@@ -24,12 +24,6 @@
     "from": "TwoSampleMR"
   },
   {
-    "package": "Rttf2pt1",
-    "url": "https://github.com/wch/Rttf2pt1",
-    "via": ["extrafont"],
-    "from": "extrafont"
-  },
-  {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["TwoSampleMR"],

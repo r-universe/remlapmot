@@ -2,25 +2,9 @@
 	path = .registry
 	url = https://github.com/remlapmot/remlapmot.r-universe.dev
 	branch = HEAD
-[submodule "MRInstruments"]
-	path = MRInstruments
-	url = https://github.com/mrcieu/MRInstruments
-	registered = false
-[submodule "MRMix"]
-	path = MRMix
-	url = https://github.com/gqi/MRMix
-	registered = false
-[submodule "MRPRESSO"]
-	path = MRPRESSO
-	url = https://github.com/rondolab/MR-PRESSO
-	registered = false
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
-[submodule "RadialMR"]
-	path = RadialMR
-	url = https://github.com/WSpiller/RadialMR
-	registered = false
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/Hemken/SASmarkdown
@@ -58,10 +42,6 @@
 [submodule "knitexercise"]
 	path = knitexercise
 	url = https://github.com/remlapmot/knitexercise
-[submodule "mr.raps"]
-	path = mr.raps
-	url = https://github.com/qingyuanzhao/mr.raps
-	registered = false
 [submodule "osutils"]
 	path = osutils
 	url = https://github.com/wjchulme/osutils
@@ -72,10 +52,6 @@
 [submodule "quickdag"]
 	path = quickdag
 	url = https://github.com/jrgant/quickdag
-[submodule "rsnps"]
-	path = rsnps
-	url = https://github.com/ropensci/rsnps
-	registered = false
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens

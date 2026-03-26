@@ -8,6 +8,10 @@
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/Hemken/SASmarkdown
+[submodule "SEQTaRget"]
+	path = SEQTaRget
+	url = https://github.com/CausalInference/SEQTaRget
+	subdir = SEQTaRget
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown

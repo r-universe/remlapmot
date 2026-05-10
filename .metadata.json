@@ -4,10 +4,6 @@
     "releasetag": true
   },
   {
-    "package": "quarto",
-    "releasetag": true
-  },
-  {
     "package": "TwoSampleMR",
     "releasetag": true
   }

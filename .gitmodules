@@ -27,6 +27,7 @@
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/Hemken/Statamarkdown
+	branch = refs/pull/44/head
 [submodule "StepReg"]
 	path = StepReg
 	url = https://github.com/remlapmot/StepReg
